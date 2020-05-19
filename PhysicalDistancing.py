@@ -119,9 +119,12 @@ class PhysicalDistancing:
 
 
 if __name__ == "__main__":
-    model_path = 'faster_rcnn_inception_v2_coco_2018_01_28/frozen_inference_graph.pb'
+    #Edit your training model path
+    model_path = 'faster_rcnn_inception_v2_coco_2018_01_28/frozen_inference_graph.pb'   
     obj1 = Detection(path_to_ckpt=model_path)
-    cap = cv2.VideoCapture('TownCentreXVID.avi')
+    
+    #Edit your input video path
+    cap = cv2.VideoCapture('TownCentreXVID.avi')                                
 
     while True:
         r, img = cap.read()
