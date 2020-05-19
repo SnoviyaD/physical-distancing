@@ -21,7 +21,7 @@ This project was built during Covid19 lockdown. It uses Tensorflow and OpenCV Py
 
 ## Testing Environment
 
-1. Laptop specifications: Intel i5 7th Gen, 8 GB Memory
+1. Laptop specifications: Intel(R) Core(TM)i5-7200U (upto 2.7GHz), 8 GB Memory
 2. Operating System     : Ubuntu 16.04
 3. Python version       : Python 3.5.2
 4. Tensorflow version   : 2.2.0 
