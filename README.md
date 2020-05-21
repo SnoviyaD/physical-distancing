@@ -1,6 +1,8 @@
 # Physical-Distancing
 This project was built during Covid19 lockdown. It uses Tensorflow and OpenCV Python to check if physical distancing measures are followed by the citizens or not.
 
+## Idea credits: LandingAI
+
 ![banner](output.gif)
 
 ## Technologies 
@@ -31,5 +33,5 @@ This project was built during Covid19 lockdown. It uses Tensorflow and OpenCV Py
 ## References
 
 1. [Tensorflow Object Detection API](https://github.com/tensorflow/models/tree/master/research/object_detection) is a great start to detect objects of different categories alongwith their scores.
-2. [DetectionAPI](https://gist.github.com/madhawav/1546a4b99c8313f06c0b2d7d7b4a09e2) is an open source project that helps us detect humans from the input.
+2. [DetectionAPI](https://gist.github.com/madhawav/1546a4b99c8313f06c0b2d7d7b4a09e2) is an open source project that helps us detect humans from the input, authored by [Madhawa Vidanapathirana](https://gist.github.com/madhawav)
 3. The video used for testing is from [Coarse Gaze Estimation in Visual Surveillance Project](http://www.robots.ox.ac.uk/~lav/Research/Projects/2009bbenfold_headpose/project.html).
