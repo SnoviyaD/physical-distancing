@@ -1,7 +1,7 @@
 # Physical-Distancing
 This project was built during Covid19 lockdown. It uses Tensorflow and OpenCV Python to check if physical distancing measures are followed by the citizens or not.
 
-## Idea credits: LandingAI
+### This project is inspired from the works of Landing AI and Airpix.
 
 ![banner](output.gif)
 
